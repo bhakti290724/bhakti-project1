@@ -1,2 +1,3 @@
 # bhakti-project1
 this is my first git repository
+bhakti - the author
